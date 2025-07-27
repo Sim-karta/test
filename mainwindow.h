@@ -23,6 +23,7 @@ public:
 private slots:
     void on_addBtn_clicked();
     void on_tableView_clicked(const QModelIndex &i);
+    void on_refBtn_clicked();
     void on_delBtn_clicked();
 
 private:
