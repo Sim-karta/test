@@ -1,0 +1,23 @@
+# Каталоги сборки
+build/
+
+# Настройки среды разработки
+.vscode/
+
+# Временные и бинарные файлы
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.a
+*.out
+
+# Файлы CMake
+CMakeFiles/
+CMakeCache.txt
+Makefile
+
+# Файлы Qt Creator
+*.user
+*.autosave
